@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Ahorcado</title>
+</head>
+<body>
+    <div class="juego">
+        <div class="titulo">¡AHORCADO!</div>
+
+        <div>
+            <button class="errores">Errores: <span id="contadorErrores">0</span></button>
+            <button class="aciertos">Aciertos: <span id="contadorAciertos">0</span></button>
+        </div>
+        <button onclick="location.reload()">Reiniciar Juego</button>
+        <p id="palabra"></p>
+        <div class="numeroLetras" id="numeroLetras">_ _ _ _ _ _ _ _</div>
+        <div id="teclado"></div>
+    </div>
+    <div class="monigote">
+        <div id="imagenMonigote">
+            <img id="imagenMonigoteImg" src="img/monigote0.png" alt="Monigote">
+        </div>
+    </div>
+</body>
+</html>
