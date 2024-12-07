@@ -1,0 +1,18 @@
+PARA EJECUTAR PROYECTOS EN JAVA DEBES DE :
+    1:te vas a la carpeta en la que esta y pones javav Main.java (o como se llame tu archivo)
+    2:luego siempre pon java Main.java (o como se llame tu archivo)
+
+1 Calculadora Básica:
+Crea una aplicación de consola que permita realizar operaciones básicas como suma, resta, multiplicación y división.
+
+2 Gestor de Tareas:
+Desarrolla un programa que te permita añadir, eliminar y marcar tareas como completadas. Podrías guardar las tareas en un archivo para practicar la lectura y escritura de archivos.
+
+3 Juego del Ahorcado:
+Implementa el clásico juego del ahorcado. El programa deberá seleccionar una palabra al azar de una lista y permitir al usuario adivinarla letra por letra.
+
+4 Agenda de Contactos:
+Crea una agenda que permita guardar contactos con nombre, número de teléfono y dirección de correo electrónico. Incluye funcionalidades para buscar, editar y eliminar contactos.
+
+5 Conversor de Monedas:
+Diseña una aplicación que convierta cantidades entre diferentes monedas. Puedes usar una API para obtener las tasas de cambio actualizadas o trabajar con tasas fijas para simplificar.
