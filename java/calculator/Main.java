@@ -23,6 +23,7 @@ public class Main {
 
         JLabel label= new JLabel();
         panel.add(label);
+
         // add buttons and events
         for (String buttonLabel : numbers) {
             JButton buttonNumbers = new JButton(buttonLabel);
