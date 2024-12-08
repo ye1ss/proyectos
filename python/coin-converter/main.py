@@ -1,0 +1,1 @@
+#hacer scraping de esta web: https://datosmacro.expansion.com/divisas
